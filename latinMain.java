@@ -14,11 +14,6 @@ public class latinMain {
 	}
 	
 	
-	
-	
-	
-	
-	
 	public static String solver(String word){
 		
 		//Split the string into the array
@@ -58,7 +53,7 @@ public class latinMain {
 		}
 	
 		return word + "ay";
-}
+  }
 
 
 }
